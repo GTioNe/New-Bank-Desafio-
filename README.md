@@ -1,4 +1,4 @@
-ste é um sistema bancário simples implementado em Python, que permite aos usuários realizar operações básicas como depósito, saque, visualização de extrato, criação de novos usuários e contas bancárias.
+Este é um sistema bancário simples implementado em Python, que permite aos usuários realizar operações básicas como depósito, saque, visualização de extrato, criação de novos usuários e contas bancárias.
 
 Funcionalidades
 
